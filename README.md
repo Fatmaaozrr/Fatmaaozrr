@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**Fatmaaozrr/Fatmaaozrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there I'm Fatma👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Programming
+- 🌱 I’m currently learning Python
+- 💬 Ask me about anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love draw,sleep and computer games 
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatmaaozrr/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatmaaozrr/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)]([https://instagram.com/](https://www.instagram.com/ozrrfatmaa/))
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ozrrfatmaa/)
+
