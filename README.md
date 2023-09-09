@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love draw,sleep and computer games 
+- ⚡ Fun fact: I love draw,sleep and computer games
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fatmaaozrr/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fatmaaozrr/)
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Fatmaaozrr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fatmaaozrr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
+[instagram]: [https://www.instagram.com/ibrahim_talha_demir](https://www.instagram.com/ozrrfatmaa/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]([https://instagram.com/](https://www.instagram.com/ozrrfatmaa/))
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ozrrfatmaa/)
-
+[linkedin]: [https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/fatmaaozrr/)https://www.linkedin.com/in/fatmaaozrr/
