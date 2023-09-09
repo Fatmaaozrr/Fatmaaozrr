@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fatmaaozrr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
 [instagram]: [https://www.instagram.com/ibrahim_talha_demir](https://www.instagram.com/ozrrfatmaa/)
-&nbsp;&nbsp;
-[linkedin]: [https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://www.linkedin.com/in/fatmaaozrr/)https://www.linkedin.com/in/fatmaaozrr/
+[linkedin]: https://www.linkedin.com/in/fatmaaozrr/
