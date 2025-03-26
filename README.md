@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 - 🔭 I’m currently working on Programming
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **fatmaaozrr@gmail.com**
-
-- ⚡ Fun fact **I love draw, sleep and computer games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
