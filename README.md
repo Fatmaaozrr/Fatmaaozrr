@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
-- 🔭 I’m currently working on Programming
 
-- 🌱 I’m currently working **JavaScript**
+# 💫 About Me:
+🔭 I’m currently working on developing a full-stack web application and exploring data analysis techniques.<br>👯 I’m looking to collaborate on collaborate on projects related to Python, web development<br>🤝 I’m looking for help with improving my skills in data science and enhancing the performance of my applications.<br>🌱 I’m currently learning dvanced Python concepts, JavaScript, and working on building a personal portfolio.<br>💬 Ask me about Full-Stack Development, programming tips, language learning, or anything related to tech.<br>⚡ Fun fact  I once spent an entire weekend debugging a single line of code and ended up learning so much more than I expected!
 
-- 💬 Ask me about **anything**
 
-- 📫 How to reach me **fatmaaozrr@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ozrrfatmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatmaaozrr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ozrrfatmaa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatmaaozrr@gmail.com) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ozrrfatmaa" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/twitter_5968958?term=tw%C4%B0tter&page=1&position=6&origin=search&related_id=5968958" alt="ozrrfatmaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatmaaozrr" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=l%C4%B0nked%C4%B0n&page=1&position=1&origin=search&related_id=3536505" alt="fatmaaozrr" height="30" width="40" /></a>
-<a href="https://instagram.com/ozrrfatmaa" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_174855?term=%C4%B0nstagram&page=1&position=2&origin=search&related_id=174855" alt="ozrrfatmaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fatmaozer1622" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/youtube_174883?term=youtube&page=1&position=4&origin=search&related_id=174883" alt="fatmaozer1622" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fatmaaozrr&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fatmaaozrr&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmaaozrr&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools :</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=Fatmaaozrr&icon=9&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
